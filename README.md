@@ -2,7 +2,7 @@
 
 This file was created uisng VS code then added, committed & pushed in github
 
-A calculator that calculates simple interest given Principal, Annual rate of interest and Time period in years.
+A Calculator that calculates simple interest given Principal, Annual rate of interest and Time period in years.
 
 Input: <br>
    p, principal amount <br>
